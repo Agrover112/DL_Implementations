@@ -8,6 +8,7 @@
 - [ ] Boltzmann Machine
 - [ ] Autoencoder
 - [ ] ResNet
+- [ ] HRNet
 - [ ] DenseNet
 - [ ] Deep and Wide 
  
