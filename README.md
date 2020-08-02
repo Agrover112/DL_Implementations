@@ -1,13 +1,13 @@
 # DL Paper Implementations
 
-- [ ] CNN for NLP
+- [x] CNN for NLP
 - [ ] Bahadnau Attention
 - [ ] Transformer
 - [ ] Siamse NN
 - [ ] C/DSSM
 - [ ] RankNet
-- [ ] Boltzmann Machine
-- [ ] Autoencoder
+- [x] Boltzmann Machine
+- [x] Autoencoder
 - [ ] ResNet
 - [ ] HRNet
 - [ ] DenseNet
